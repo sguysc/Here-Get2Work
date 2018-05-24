@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com.here.mobility.sdk:map-1.0.4">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/map-1.0.4.aar/76958f595a8b8b596016ff51c15274e2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/map-1.0.4.aar/76958f595a8b8b596016ff51c15274e2/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
